@@ -3,10 +3,9 @@
 # Prerequisites
 
 1. Azure account with active subscription
-2. Azure Data Lake Storage Gen2 (hierarchical) containing the source data (hotels, weather and expedia)
-3. Bash-compatible environment such as WSL
-4. [Terraform CLI](https://developer.hashicorp.com/terraform/tutorials/azure-get-started/install-cli)
-5. [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt)
+2. Bash-compatible environment such as WSL
+3. [Terraform CLI](https://developer.hashicorp.com/terraform/tutorials/azure-get-started/install-cli)
+4. [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt)
 
 # Running the notebook
 
